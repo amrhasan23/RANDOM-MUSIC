@@ -1,0 +1,6 @@
+owner=504548641780924446
+prefix=.
+game=I HELP RANDOM SERVER
+stayinchannel=true
+songinstatus=false
+token=NjA0NDA2MzY5OTY5MzczMzAw.XTtfVA.9OU1I3yhXwCBQFBWi5lXuTTthi8
